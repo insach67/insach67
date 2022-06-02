@@ -55,3 +55,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=insach67)
     <img src="https://komarev.com/ghpvc/?username=insach67">
 <a href="https://github.com/insach67?tab=followers"><img src="https://img.shields.io/github/followers/insach67?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<a href="https://www.buymeacoffee.com/insach07E" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
