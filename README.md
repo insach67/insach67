@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **insach07@gmail.com**
+- 📫 How to reach me **sachin.priyadarshi904@gmail.com**
 
 - ⚡ Fun fact **I Like to  play And Watch Cricket.**
 
